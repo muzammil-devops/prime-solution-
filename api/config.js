@@ -8,7 +8,7 @@ dotenv.config({
 
 module.exports = {
     NODE_ENV : process.env.NODE_ENV || 'development',
-    HOST : process.env.HOST || 'localhost',
+    HOST : process.env.HOST || '16.16.162.164',
     PORT : process.env.PORT || 4000,
     SECRET: process.env.SECRET || 'AAAAA'
 }
