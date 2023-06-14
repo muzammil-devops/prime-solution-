@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: '16.16.162.164',
+    HOST: '13.50.244.192',
     USER: "root",
     PASSWORD: "vishal1234",
     DB: "primeSolutionMarket",
