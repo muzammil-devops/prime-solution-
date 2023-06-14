@@ -1,7 +1,7 @@
 import axios from "axios";
 import { AUTH_TOKEN, getCookie } from "./cookie";
 
-export const baseurl = 'http://13.50.244.192:4000';
+export const baseurl = 'http://13.50.101.209:4000';
 
 const header = () => ({
   Authorization: getCookie(AUTH_TOKEN),
