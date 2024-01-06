@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: '13.51.162.199',
+    HOST: '127.0.0.1',
     USER: "root",
-    PASSWORD: "vishal1234",
+    PASSWORD: "Root@123",
     DB: "primeSolutionMarket",
     dialect: "mysql",
     logging: false,
